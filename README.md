@@ -1,6 +1,4 @@
-# 🎬 Netflix Movie Details Page  
-
-🚀 **Showcasing My Latest Project: Netflix Movie Details Page**  
+# 🎬 Netflix Movie Details Page   
 
 This project is a **Netflix Movie Details Page** built using **Angular v17, HTML, CSS, and media queries** for full responsiveness! It is deployed on **Google Firebase** for fast and reliable performance.  
 
