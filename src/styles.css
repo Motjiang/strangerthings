@@ -32,3 +32,23 @@ body {
   background-color: var(--secondary-color);
   color: var(--extra-light);
 }
+
+@media (width < 900px) {
+  header {
+    flex-direction: column;
+  }
+
+  .cover {
+    height: 600px;
+  }
+}
+
+@media (width < 500px) {
+  .next__episodes {
+    flex-direction: column;
+  }
+
+  .episode__card {
+    width: 100%;
+  }
+}
