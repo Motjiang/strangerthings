@@ -13,4 +13,4 @@ This project is a **Netflix Movie Details Page** built using **Angular v17, HTML
 ⚡ **Smooth UI/UX with optimized performance**  
 
 ## 🚀 Live Demo  
-🔗 [Live Demo](#) *(Replace with your live demo link)* 
+🔗 [Live Demo](https://netflixmoviedetails-f1c4e.web.app) *(Replace with your live demo link)* 
